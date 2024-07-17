@@ -243,3 +243,9 @@ img{
         grid-area: 6/1/8/1;
     }
 }
+
+@media (max-width: 535px){
+    main{
+        max-width: 340px;
+    }
+}
