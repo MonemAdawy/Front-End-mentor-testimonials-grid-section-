@@ -21,7 +21,7 @@ main{
     max-width: 1150px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, min-content);
-    grid-gap: 20px;
+    grid-gap: 30px;
     margin-bottom: 2rem;
 }
 
@@ -31,7 +31,7 @@ main{
     background-color: hsl(217, 19%, 35%);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
     border-radius: 15px;
-    padding: 30px 40px;
+    padding: 30px;
 }
 
 .name{
@@ -67,7 +67,7 @@ img{
     color: hsl(210, 46%, 95%);
     font-size: 20px;
     margin-bottom: 10px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .p-1-2{
     color: white;
@@ -93,7 +93,7 @@ img{
     color: hsl(210, 46%, 95%);
     font-size: 20px;
     margin-bottom: 10px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .p-2-2{
     color: white;
@@ -123,7 +123,7 @@ img{
     color: #222;
     font-size: 20px;
     margin-bottom: 10px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .p-3-2{
     color: #222;
@@ -149,7 +149,7 @@ img{
     color: hsl(210, 46%, 95%);
     font-size: 20px;
     margin-bottom: 10px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .p-4-2{
     color: white;
@@ -180,7 +180,7 @@ img{
     color: #222;
     font-size: 20px;
     margin-bottom: 10px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .p-5-2{
     color: #222;
